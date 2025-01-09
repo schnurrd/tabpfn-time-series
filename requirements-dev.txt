@@ -1,0 +1,6 @@
+# for development
+jupyter
+ruff
+pre-commit
+twine
+build

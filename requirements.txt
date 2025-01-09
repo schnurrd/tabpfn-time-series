@@ -1,9 +1,6 @@
 tqdm
 pandas
-gluonts
-autogluon.timeseries
-datasets
-tabpfn-client
-
-ruff
-pre-commit
+gluonts==0.16.0
+autogluon.timeseries==1.2
+tabpfn-client==0.1.1
+tabpfn==2.0.0
